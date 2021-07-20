@@ -37,3 +37,6 @@ yarn-debug.log*
 data
 Gemfile.lock
 yarn.lock
+env_var_setup
+**/*.sw?
+package-lock.json
